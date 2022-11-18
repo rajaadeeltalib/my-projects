@@ -1,0 +1,68 @@
+body{
+    margin: 0px;
+    padding: 20px 100px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+.btn{
+    width: 20px;
+    height: 20px;
+    display: inline-block;  
+    border: solid gray 2px;
+    border-radius: 50%;
+    cursor: pointer;  
+}
+#white{
+background-color: white;
+}
+#aqua{
+    background-color: aqua;
+}
+#violet{
+background-color: violet;
+}
+#black{
+    background-color: black;
+}
+#green{
+    background-color: #008000;
+}
+#blue{
+    background-color: #0000FF;
+}
+#purple{
+    background-color: #800080;
+}
+#yellow{
+    background-color: #FFFF00;
+}
+#lime{
+    background-color: #00FF00;
+}
+#magenta{
+    background-color: #FF00FF;
+} 
+#orange{
+    background-color: #FFA500;
+}
+#maroon{
+    background-color: #800000;
+}
+#pink{
+    background-color: #FFC0CB;
+}
+#color-switcher{
+    text-align: right;
+}
